@@ -4,3 +4,4 @@
 - Iris Dataset
 - California Housing Dataset
 - Candies Recommendation using Light_FM
+- Exhibition Dataset
