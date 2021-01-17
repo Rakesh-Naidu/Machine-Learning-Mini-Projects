@@ -4,7 +4,7 @@ which shows the details of data of purchase , Exhibition Id , Visitors Id , Prod
 First do study data and start with Analysis.
 
 - 1st Case Study.<br/>
-<b>Exhibition Plan<b/><br/>
+Exhibition Plan<br/>
 Which product is getting sold more previous year and by that we can assume that product is going to be sold in this year also
 so we can have more stalls for that product.
 
